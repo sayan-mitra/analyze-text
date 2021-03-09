@@ -1,0 +1,299 @@
+[
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "it",
+        "pos": "pronoun",
+        "ts": "ɪt",
+        "tr": [{ "text": "this", "pos": "determiner / pronoun", "fr": 1 }]
+      }
+    ],
+    "text": "it",
+    "noOfOccurences": 10612
+  },
+  { "head": {}, "def": [], "text": "was", "noOfOccurences": 11372 },
+  { "head": {}, "def": [], "text": "he", "noOfOccurences": 12333 },
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "that",
+        "pos": "conjunction",
+        "ts": "ðæt",
+        "tr": [
+          { "text": "who", "pos": "pronoun", "fr": 1 },
+          {
+            "text": "what",
+            "pos": "determiner / pronoun",
+            "fr": 1,
+            "syn": [
+              { "text": "whatever", "pos": "determiner / pronoun", "fr": 1 },
+              { "text": "much", "pos": "determiner / pronoun", "fr": 1 },
+              { "text": "that which", "pos": "determiner / pronoun", "fr": 1 }
+            ]
+          },
+          { "text": "this", "pos": "determiner / pronoun", "fr": 1 },
+          { "text": "to", "pos": "preposition", "fr": 1 },
+          { "text": "which", "pos": "determiner / pronoun", "fr": 1 },
+          { "text": "of which", "pos": "adverb", "fr": 1 },
+          { "text": "the", "pos": "determiner", "fr": 1 },
+          { "text": "as", "pos": "preposition", "fr": 1 },
+          {
+            "text": "so that",
+            "pos": "adverb",
+            "fr": 1,
+            "syn": [{ "text": "so", "pos": "adverb", "fr": 1 }]
+          },
+          { "text": "whereby", "pos": "conjunction", "fr": 1 },
+          {
+            "text": "how",
+            "pos": "adverb",
+            "fr": 1,
+            "syn": [{ "text": "really", "pos": "adverb", "fr": 1 }]
+          },
+          { "text": "far", "pos": "noun", "fr": 1 },
+          { "text": "ever", "pos": "adverb", "fr": 1 }
+        ]
+      }
+    ],
+    "text": "that",
+    "noOfOccurences": 12380
+  },
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "a",
+        "pos": "determiner",
+        "ts": "eɪ",
+        "tr": [
+          {
+            "text": "one",
+            "pos": "determiner / pronoun",
+            "fr": 1,
+            "syn": [{ "text": "some", "pos": "determiner / pronoun", "fr": 1 }]
+          },
+          { "text": "when", "pos": "conjunction", "fr": 1 },
+          { "text": "each", "pos": "determiner / pronoun", "fr": 1 },
+          { "text": "rather", "pos": "adverb", "fr": 1 },
+          { "text": "an", "pos": "determiner", "fr": 1 }
+        ]
+      }
+    ],
+    "text": "a",
+    "noOfOccurences": 20894
+  },
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "in",
+        "pos": "preposition",
+        "ts": "ɪn",
+        "tr": [
+          {
+            "text": "within",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [
+              { "text": "inside", "pos": "preposition", "fr": 1 },
+              { "text": "during", "pos": "preposition", "fr": 1 }
+            ]
+          },
+          {
+            "text": "into",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [
+              { "text": "among", "pos": "preposition", "fr": 1 },
+              { "text": "of", "pos": "preposition", "fr": 1 },
+              { "text": "to", "pos": "preposition", "fr": 1 },
+              { "text": "from", "pos": "preposition", "fr": 1 },
+              { "text": "per", "pos": "preposition", "fr": 1 }
+            ]
+          },
+          { "text": "at", "pos": "noun", "fr": 1 },
+          {
+            "text": "throughout",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [
+              { "text": "across", "pos": "preposition", "fr": 1 },
+              { "text": "for", "pos": "preposition", "fr": 1 }
+            ]
+          },
+          { "text": "through", "pos": "preposition", "fr": 1 },
+          { "text": "when", "pos": "conjunction", "fr": 1 },
+          { "text": "inch", "pos": "verb", "fr": 1 },
+          { "text": "inward", "pos": "adverb", "fr": 1 }
+        ]
+      }
+    ],
+    "text": "in",
+    "noOfOccurences": 21781
+  },
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "to",
+        "pos": "preposition",
+        "ts": "tuː",
+        "tr": [
+          { "text": "up to", "pos": "adverb", "fr": 1 },
+          {
+            "text": "so that",
+            "pos": "adverb",
+            "fr": 1,
+            "syn": [{ "text": "so", "pos": "adverb", "fr": 1 }]
+          },
+          {
+            "text": "with",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [
+              { "text": "of", "pos": "preposition", "fr": 1 },
+              { "text": "towards", "pos": "preposition", "fr": 1 }
+            ]
+          },
+          {
+            "text": "for",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [
+              { "text": "toward", "pos": "preposition", "fr": 1 },
+              { "text": "on", "pos": "preposition", "fr": 1 },
+              { "text": "in", "pos": "preposition", "fr": 1 },
+              { "text": "onto", "pos": "preposition", "fr": 1 },
+              { "text": "along", "pos": "preposition", "fr": 1 }
+            ]
+          },
+          { "text": "that", "pos": "conjunction", "fr": 1 },
+          {
+            "text": "before",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [{ "text": "until", "pos": "preposition", "fr": 1 }]
+          },
+          {
+            "text": "in order",
+            "pos": "adverb",
+            "fr": 1,
+            "syn": [
+              { "text": "so as", "pos": "adverb", "fr": 1 },
+              { "text": "in order that", "pos": "adverb", "fr": 1 }
+            ]
+          },
+          { "text": "allow", "pos": "verb", "fr": 1 },
+          { "text": "which", "pos": "determiner / pronoun", "fr": 1 },
+          { "text": "ere", "pos": "conjunction", "fr": 1 },
+          { "text": "afore", "pos": "noun", "fr": 1 },
+          { "text": "closed", "pos": "participle", "fr": 1 }
+        ]
+      }
+    ],
+    "text": "to",
+    "noOfOccurences": 28685
+  },
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "and",
+        "pos": "conjunction",
+        "ts": "ænd",
+        "tr": [
+          { "text": "as", "pos": "preposition", "fr": 1 },
+          { "text": "or", "pos": "conjunction", "fr": 1 },
+          { "text": "both", "pos": "determiner / pronoun", "fr": 1 },
+          { "text": "even", "pos": "adverb", "fr": 1 },
+          {
+            "text": "also",
+            "pos": "adverb",
+            "fr": 1,
+            "syn": [{ "text": "well", "pos": "adverb", "fr": 1 }]
+          },
+          {
+            "text": "while",
+            "pos": "conjunction",
+            "fr": 1,
+            "syn": [{ "text": "but", "pos": "conjunction", "fr": 1 }]
+          },
+          {
+            "text": "moreover",
+            "pos": "adverb",
+            "fr": 1,
+            "syn": [
+              { "text": "as well as", "pos": "adverb", "fr": 1 },
+              { "text": "rather", "pos": "adverb", "fr": 1 }
+            ]
+          },
+          { "text": "so", "pos": "adverb", "fr": 1 },
+          { "text": "whereas", "pos": "conjunction", "fr": 1 },
+          { "text": "with", "pos": "preposition", "fr": 1 }
+        ]
+      }
+    ],
+    "text": "and",
+    "noOfOccurences": 38103
+  },
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "of",
+        "pos": "preposition",
+        "ts": "ɒv",
+        "tr": [
+          { "text": "out of", "pos": "adverb", "fr": 1 },
+          {
+            "text": "from",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [
+              { "text": "to", "pos": "preposition", "fr": 1 },
+              { "text": "with", "pos": "preposition", "fr": 1 },
+              { "text": "among", "pos": "preposition", "fr": 1 },
+              { "text": "toward", "pos": "preposition", "fr": 1 }
+            ]
+          },
+          {
+            "text": "for",
+            "pos": "preposition",
+            "fr": 1,
+            "syn": [
+              { "text": "in", "pos": "preposition", "fr": 1 },
+              { "text": "along", "pos": "preposition", "fr": 1 },
+              { "text": "towards", "pos": "preposition", "fr": 1 }
+            ]
+          },
+          { "text": "relation", "pos": "noun", "fr": 1 },
+          { "text": "concerning", "pos": "participle", "fr": 1 },
+          { "text": "regarding", "pos": "preposition", "fr": 1 },
+          { "text": "respecting", "pos": "participle", "fr": 1 }
+        ]
+      }
+    ],
+    "text": "of",
+    "noOfOccurences": 40000
+  },
+  {
+    "head": {},
+    "def": [
+      {
+        "text": "the",
+        "pos": "determiner",
+        "ts": "ðiː",
+        "tr": [
+          { "text": "this", "pos": "determiner / pronoun", "fr": 1 },
+          { "text": "that", "pos": "conjunction", "fr": 1 },
+          { "text": "those", "pos": "determiner / pronoun", "fr": 1 },
+          { "text": "it", "pos": "pronoun", "fr": 1 }
+        ]
+      }
+    ],
+    "text": "the",
+    "noOfOccurences": 79379
+  }
+]
