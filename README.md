@@ -7,6 +7,18 @@
 - The result will be outputted to `result.json` file in the directory. The result file is attached in the repo for a run of the above steps for `big.txt` file
 - Call `end test` to end the program
 - The program outputs two debug files `flow.txt` and `freq.json` when the `process` command is run. They contain the queue i/o flow and the word frequency map. Please delete them after each run of the program
+- `result format` : 
+```
+// top words in increasing order
+[
+  {
+    ...yandex dictionary json keys
+    text: <word text>
+    noOfOccurences: <count in the document>
+  },
+  ...
+]
+```
 
 ## Improvement Scope
 - efficient frequency counts map handling
